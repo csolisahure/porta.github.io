@@ -1,0 +1,12 @@
+/* estilos.css puede ser utilizado para cambiar los estilos definidos por Bootstrap... Para que los estilos tengan efecto sobre la página, el archivo "estilos.css" debe ser intertado en el <head> después de Bootstrap */
+
+.bg-primary {
+    background-color:black!important;
+}
+
+.btn-primary {
+    color: white;
+    background-color:rgb(13, 0, 255);
+    border-color: black;
+}
+
